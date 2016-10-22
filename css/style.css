@@ -325,6 +325,7 @@ li{
 	border-radius: 7px;
 	box-shadow: inset 0px 0px 10px white;
 	margin-top: 7px;
+	position: relative;
 }
 section{
 	width: 713px;
