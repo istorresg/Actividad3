@@ -302,7 +302,7 @@ h3{
 }
 header{
 	width: 1000px;
-	height: 120 px;
+	/*height: 120 px; PROPIEDAD DAÑADA */
 	background: rgba(255, 255, 255, 10,70);
 }
 nav{
@@ -314,17 +314,17 @@ nav{
 }
 ul{
 margin: auto;
-padding-top: 4px;
+padding: 15px;
 }
 li{
 	float: left;
 	list-style-type: none;
-	padding: 13px;
-	background: #003f5e;
 	margin: 3px;
-	border-radius: 7px;
-	box-shadow: inset 0px 0px 10px white;
 	margin-top: 7px;
+	/*padding: 13px;
+	background: #003f5e;
+	border-radius: 7px;
+	box-shadow: inset 0px 0px 10px white;*/
 }
 section{
 	width: 713px;
@@ -363,6 +363,12 @@ p{
 	text-align: justify;
 }
 /*CLASES*/
+.list {
+	padding: 13px;
+	background: #003f5e;
+	border-radius: 7px;
+	box-shadow: inset 0px 0px 10px white;
+}
 .ancho_menu_home{width: 900px;}
 .ancho_menu_paginas{width: 970px;}
 .menu:link{
