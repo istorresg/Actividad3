@@ -468,8 +468,8 @@ article :hover {
 }
 #karen{
 	width:100px;
-	height:110px;
-	background:url('../img/karen.jpg');
+	height:100px;
+	background:url('../img/karen.png');
 	background-size:95% 100%;
 	background-repeat:no-repeat;
 	display:box;
