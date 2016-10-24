@@ -375,12 +375,19 @@ p{
 	padding: 10px;
 	text-align: justify;
 }
+
 /*CLASES*/
 .list {
 	padding: 13px;
 	background: #003f5e;
 	border-radius: 7px;
 	box-shadow: inset 0px 0px 10px white;
+}
+.articleTitle {
+	font-size: 18pt;
+}
+.articleText {
+	padding: 30px;
 }
 .ancho_menu_home{width: 900px;}
 .ancho_menu_paginas{width: 970px;}
