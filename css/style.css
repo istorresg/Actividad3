@@ -383,11 +383,17 @@ p{
 	border-radius: 7px;
 	box-shadow: inset 0px 0px 10px white;
 }
+.sub-list {
+	float:none;
+	margin-bottom:25px;
+}
 .articleTitle {
 	font-size: 18pt;
 }
 .articleText {
-	padding: 30px;
+	font-size: 8.5pt;
+	line-height: 12px;
+	padding: 0 30px 0 30px;
 }
 .ancho_menu_home{width: 900px;}
 .ancho_menu_paginas{width: 970px;}
